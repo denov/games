@@ -2,7 +2,7 @@
 
 by Deno Vichas · deno@fullstacksystems.com
 
-Built as a personal challenge: write it from scratch during a single flight from Kauai to Oakland.
+Built as a personal challenge: write it from scratch during a single flight from Kauai to Oakland, offline and in the days before LLMs. Everything was written from memory, with no internet and no AI assistance.
 
 It was also an excuse to:
 

@@ -6,6 +6,8 @@ Small browser games built for fun, as challenges, and as an excuse to try new te
 
 **The challenge:** board a flight in Kauai and land in Oakland with a working four-in-a-row game, *including an AI opponent that actually fights back*.
 
+**The catch:** it was offline, and this was before LLMs. There was no Stack Overflow, no docs and no AI copilot, just a laptop, a brain and a few hours over the Pacific. ✈️🌊
+
 It shipped before the wheels touched down. 🛬
 
 What's inside:
