@@ -15,7 +15,7 @@ What's inside:
 - **🎨 p5.js rendering.** The board, pieces, hover preview and win screen are all drawn on a canvas.
 - **✨ Modern JavaScript.** It uses ES modules, classes, arrow functions and destructuring.
 
-👉 [Play it](connect-four/) · [Read about it](connect-four/README.md)
+👉 [Play it](connect-four/) · [Play live on syncopated.net](https://syncopated.net/games/c4/index.html) · [Read about it](connect-four/README.md)
 
 ## ☄️ Space Rocks
 
