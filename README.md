@@ -17,6 +17,15 @@ What's inside:
 
 👉 [Play it](connect-four/) · [Read about it](connect-four/README.md)
 
+## ☄️ Space Rocks
+
+A classic *Asteroids*-style arcade shooter. Pilot your ship, blast the rocks, and watch big asteroids split into smaller, faster fragments that are worth more points. The levels keep getting harder until you run out of ships.
+
+- **🎮 Controls:** ← → to rotate, ↑ to thrust, **X** to fire, **P** to play again
+- **💥 Physics and sprites** powered by p5.js + p5.play, with screen wraparound, a thrust animation and particle explosions
+
+👉 [Play it](spacerocks/) · [Play live on syncopated.net](https://syncopated.net/games/spacerocks/index.html)
+
 ## Run locally
 
 ES modules and Web Workers need to be served over HTTP, so opening the files directly from disk won't work:
