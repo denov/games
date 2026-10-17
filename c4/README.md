@@ -1,4 +1,4 @@
-# Connect Four
+# C4
 
 by Deno Vichas · deno@fullstacksystems.com
 
