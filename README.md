@@ -19,7 +19,7 @@ What's inside:
 
 ## ☄️ Space Rocks
 
-A classic *Asteroids*-style arcade shooter. Pilot your ship, blast the rocks, and watch big asteroids split into smaller, faster fragments that are worth more points. The levels keep getting harder until you run out of ships.
+A classic arcade space shooter. Pilot your ship, blast the rocks, and watch big asteroids split into smaller, faster fragments that are worth more points. The levels keep getting harder until you run out of ships.
 
 - **🎮 Controls:** ← → to rotate, ↑ to thrust, **X** to fire, **P** to play again
 - **💥 Physics and sprites** powered by p5.js + p5.play, with screen wraparound, a thrust animation and particle explosions
